@@ -3,8 +3,7 @@ package org.jevo.annotation.sample;
 import java.util.EnumSet;
 
 /**
- * Created by Huang Jianhua 版权所有 自2012,并保留所有权利。
- * User: utstar
+ * Created by Jevo 版权所有 自2012,并保留所有权利。
  * Date: 2013-4-7
  * Time: 10:08:16
  * To change this template use File | Settings | File Templates.
